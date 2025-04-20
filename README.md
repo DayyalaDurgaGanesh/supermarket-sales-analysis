@@ -22,7 +22,7 @@ Analyze a supermarket sales dataset to extract insights using:
 - `supermarket_analysis.ipynb`: Python notebook with code and graphs
 - `supermarket_sales.sql`: SQL queries used for analysis
 - `supermarket_sales.csv`: Dataset used
-- `images/`: Optional charts/screenshots
+
 
 ## 🚀 Tools Used
 - PostgreSQL + pgAdmin
